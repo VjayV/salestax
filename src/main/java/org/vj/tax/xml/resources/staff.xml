@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<taxexempted>
+	<product>
+		<name>book</name>
+		<category>BOOK</category>
+	</product>
+	<product>
+		<name>chocolate</name>
+		<category>FOOD</category>
+	</product>
+	<product>
+		<name>pills</name>
+		<category>MEDICAL</category>
+	</product>
+</taxexempted>
